@@ -9,4 +9,5 @@ age = 17
 height = 1.65
 is_student = True
 
-print("My name is: {name}")
+print(f"My name is{name}")
+print(f"My age is {age} years old")
